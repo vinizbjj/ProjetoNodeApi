@@ -1,0 +1,26 @@
+{
+  "name": "projetoexplorer08api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/server.js",
+    "dev": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinizbjj/ProjetoNodeApi.git"
+  },
+  "author": "Vinicius Oliveira de Arruda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinizbjj/ProjetoNodeApi/issues"
+  },
+  "homepage": "https://github.com/vinizbjj/ProjetoNodeApi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
